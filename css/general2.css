@@ -5,6 +5,33 @@ html {
 
  body {
     background-color:#97dbf7;
+    color:#fcfdfc
     
 }
 
+h1 {
+    font-family: futura;
+    font-weight: bold;
+    font-size: 2rem;
+    text-shadow:#f09224 2px 2px;
+}
+
+h2 {
+    font-family:arial,helvtica,sans-serif;
+    font-weight:bold;
+    color:#fcfdfc
+}
+
+p,
+li {font-size:1rem;
+    line-height:1rem;
+}
+
+h1 + p {
+    font-size:1.5rem;
+    
+    
+    
+    
+    
+    
